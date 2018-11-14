@@ -1,18 +1,16 @@
-{
-    "result": [
-        {
-            "id": "13",
-            "title": "Programming in Contest",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "category_name": "Events",
-            "url": "http://ciauajy.xyz/public/images/1536816415.png"
-        },
-        {
-            "id": "14",
-            "title": "PnC",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "category_name": "Events",
-            "url": "http://ciauajy.xyz/public/images/1536816462.jpg"
-        }
-    ]
-}
+[
+    {
+        "id": "13",
+        "title": "Programming in Contest",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category_name": "Events",
+        "url": "http://ciauajy.xyz/public/images/1536816415.png"
+    },
+    {
+        "id": "14",
+        "title": "PnC",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "category_name": "Events",
+        "url": "http://ciauajy.xyz/public/images/1536816462.jpg"
+    }
+]
